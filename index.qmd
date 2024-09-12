@@ -1,0 +1,9 @@
+---
+title: "CS2 or Valorant"
+---
+
+As two of the most famous FPS games in the world, which one do you like?
+
+```{r}
+1 + 1
+```
